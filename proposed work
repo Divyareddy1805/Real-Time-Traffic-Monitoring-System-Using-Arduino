@@ -1,0 +1,7 @@
+The proposed real-time traffic monitoring system utilizes Infrared (IR) sensors to detect and monitor traffic conditions on roadways. The system is designed to be cost-effective, efficient, and capable of providing real-time data on vehicle presence, speed, and density. Below is an overview of the proposed method:
+System Architecture
+The proposed system consists of multiple IR sensors installed along key traffic lanes or intersections. These sensors are positioned above or along the roadside, where they continuously monitor the passage of vehicles. The IR sensors detect vehicles by sensing the heat emitted by moving objects or by reflecting infrared light off vehicles as they pass through the sensor's detection zone.
+A central processing unit (CPU) or microcontroller is used to gather and process the data from these sensors. The processed data is sent to a traffic management center where real-time analysis and decision-making can take place.
+Vehicle Detection
+The IR sensors operate based on infrared light, which is not affected by environmental lighting conditions (e.g., day or night), providing accurate detection 24/7. When a vehicle passes through the detection zone, the IR sensor detects a change in the reflected light or thermal signature.
+The system can detect the presence of vehicles in each lane, calculate vehicle density, and estimate the number of vehicles on the road. The system is also capable of detecting vehicle speed by measuring the time it takes for a vehicle to pass between two sensor points.
